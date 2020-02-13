@@ -1,5 +1,6 @@
-https://websitesetup.org/html5-periodical-table/
+https://websitesetup.org/html5-periodical-table/(html5 toutes les commandes)
 https://github.com/
-https://codepen.io/
-https://docs.google.com/spreadsheets/d/1AEDeLv_zMKsexhh2Yrl61tcYc76qNEjnxUFcm6DJmxg/edit#gid=1375911939
-http://www.algobot.be/
+https://codepen.io/(css et effet css)
+https://docs.google.com/spreadsheets/d/1AEDeLv_zMKsexhh2Yrl61tcYc76qNEjnxUFcm6DJmxg/edit#gid=1375911939(molsheim planning)
+http://www.algobot.be/(jeux algo)
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/(flexbox)
