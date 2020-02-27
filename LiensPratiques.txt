@@ -7,3 +7,4 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/(flexbox)
 https://cdnjs.com/libraries/font-awesome (fafa) 
 https://fontawesome.com/icons?d=gallery (recherche des noms fafa pour la feuille de style en suite chercher burger avec bars)
 https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3(array function en js
+https://www.artstation.com/ banque d'image de folie
