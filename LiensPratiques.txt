@@ -13,3 +13,6 @@ https://sql.sh/ bible du sql a utilser en bdd
 https://fonts.google.com/?category=Display police a utiliser dans nos sites
 
 https://jolicode.com/blog/une-fenetre-modale-accessible fr une fenetre modale
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/Input/color pour fr le color picker
+
+https://material.io/ material design pour penser l'harmonie d'un site web liste de bonnes pratiques
