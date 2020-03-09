@@ -16,3 +16,5 @@ https://jolicode.com/blog/une-fenetre-modale-accessible fr une fenetre modale
 https://developer.mozilla.org/fr/docs/Web/HTML/Element/Input/color pour fr le color picker
 
 https://material.io/ material design pour penser l'harmonie d'un site web liste de bonnes pratiques
+
+https://www.looping-mcd.fr/ logiciel mcd pr mysql
